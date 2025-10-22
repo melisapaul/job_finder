@@ -17,7 +17,7 @@ A simple job listing and search web app built with React, Vite, Tailwind CSS, an
   - `location` (e.g., Remote, Onsite)
   - `experience` (e.g., Junior, Senior)
   - `title`
-- Clear filter button to reset and show all jobs
+- Clear filter button to reset and show all job
 
 ## Project Structure
 
